@@ -6,6 +6,7 @@ It works because of an AMFI/CoreTrust bug where iOS does not correctly verify co
 
 Supported versions: 14.0 - 16.6.1, 16.7 RC (20H18), 17.0
 
+
 ## Installing TrollStore
 
 For installing TrollStore, refer to the guides at [ios.cfw.guide](https://ios.cfw.guide/installing-trollstore)
